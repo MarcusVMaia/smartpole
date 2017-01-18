@@ -20,7 +20,7 @@ header {
 	font-family: Arial;
 	font-weight: bold;
 	font-size: 50px;
-	margin: 0px;
+	margin: 0px 0px 0px 25%;
 }
 .menu_horizontal{
 	list-style: none;
