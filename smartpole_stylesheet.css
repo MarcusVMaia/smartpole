@@ -1,0 +1,55 @@
+body {
+	background: url("pole.png") no-repeat fixed right bottom;
+	font-family: Arial;
+	margin: 50px;
+}
+header {
+	position: fixed;
+	background-color: white;
+	font-family: Arial;
+	width:100%;
+}
+#unb_logo {
+	width: 8%;
+	height: 16%;
+}
+.titulo{
+	color: navy;
+	display: inline-block;
+	text-align: center;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 50px;
+	margin-left: 25%;
+}
+.menu_horizontal{
+	list-style: none;
+	text-align: center;
+	float: left;
+	margin: 0% 3% 0% 3%;
+	width: 15%;
+}
+a:link,a:hover,a:visited,a:active {
+	text-decoration: none;
+	font-size: 20px; 
+	color: navy;
+	background-color: lightgrey;
+	padding-right: 30%;
+	padding-left: 30%;
+	border-radius: 30px;
+	
+}
+a:hover {
+	background-color: navy;
+	color: white;
+}
+
+h2 {
+	color: navy;
+}
+
+p {
+	text-align: justify;
+	text-indent: 50px;
+	width: 75%;
+}
