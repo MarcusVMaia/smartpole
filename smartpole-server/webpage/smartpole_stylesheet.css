@@ -15,7 +15,7 @@ header {
 }
 .titulo{
 	color: navy;
-	display: inline-block;
+	display: table;
 	text-align: center;
 	font-family: Arial;
 	font-weight: bold;
